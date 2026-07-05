@@ -1,2 +1,1 @@
 hello
-resolved conflict
